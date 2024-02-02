@@ -1,4 +1,4 @@
-## SideStore Connect<br /> Empower the Freedom of Sideloading
+# SideStore Connect<br /> Empower the Freedom of Sideloading
 
 ![hero-image](https://github.com/SideStore-Connect/.github/assets/26281795/3bf73af0-a807-408d-9938-4feed6eb047b)
 
@@ -10,7 +10,7 @@ The web-based management and distribution platform for iOS and iPadOS apps, spec
   </a>
 </p>
 
-### Main Features
+## Main Features
 - **Manage & Host Apps and News**  
   Manage your applications and messages with a beautiful and intuitive UI that will be familiar to both beginners and anyone who has ever distributed an application.
 - **User & Organization Management**  
